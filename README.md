@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=toyoshin5)
 <!--
 **toyoshin5/toyoshin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
