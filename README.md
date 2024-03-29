@@ -10,7 +10,7 @@
 - [PhotoCurrency](https://apps.apple.com/jp/app/photocurrency-%E9%80%9A%E8%B2%A8%E5%A4%89%E6%8F%9B%E3%82%AB%E3%83%A1%E3%83%A9/id6479285476): 通貨変換カメラ:iOS
 - [TwiNotes](https://apps.apple.com/jp/app/twinotes-sns%E9%A2%A8%E3%83%A1%E3%83%A2/id1583565949): SNS風のメモ帳アプリ:iOS
 - [Rakupe](https://github.com/toyoshin5/Rakupe): ヘッドポインティングでページを捲るPDFリーダー:iOS
-- [Umap](https://github.com/toyoshin5/gohan_map): 美味しかった外食の記録を残せる自分だけのマップアプリ:Flutter
+- [Umap](https://github.com/jphacks/SP_2303): 美味しかった外食の記録を残せる自分だけのマップアプリ:Flutter
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyoshin5)](https://github.com/anuraghazra/github-readme-stats)
