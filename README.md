@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=toyoshin5)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyoshin5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **toyoshin5/toyoshin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
