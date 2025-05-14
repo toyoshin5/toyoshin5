@@ -1,7 +1,7 @@
 # こんにちは
 
 はじめまして。
-私はSwiftやFlutterが好きなアプリケーションエンジニアです。
+SwiftやFlutter好きのアプリケーションエンジニアです。
 
 ## Things I code with
 [![My Skills](https://skillicons.dev/icons?i=swift,flutter,kotlin,apple,dart,java,androidstudio,py,opencv,flask,discord,c,cpp,arduino,git,ruby,rails,js,vue,react,vscode,md)](https://skillicons.dev)
